@@ -1,0 +1,6 @@
+valcom=Valcom
+polycom=PolyCom
+synapps=Synapps
+informapoly=InformaCast&PolyCom
+informasynapps=InformaCast&Synapps
+InformaCast=InformaCast
